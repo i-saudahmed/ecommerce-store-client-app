@@ -1,0 +1,40 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "customerName": "Sarah Johnson",
+      "phoneNumber": "1800 123 4567",
+      "amount": 2459.99,
+      "date": "2024-03-15",
+      "status": "Completed",
+      "items": ["Laptop", "Wireless Mouse", "Keyboard"]
+    },
+    {
+      "id": 2,
+      "customerName": "Michael Chen",
+      "phoneNumber": "1800 456 7890",
+      "amount": 1299.50,
+      "date": "2024-03-14",
+      "status": "Pending",
+      "items": ["Smartphone", "Phone Case", "Screen Protector"]
+    },
+    {
+      "id": 3,
+      "customerName": "Emma Williams",
+      "phoneNumber": "1800 789 0123",
+      "amount": 3750.00,
+      "date": "2024-03-13",
+      "status": "Completed",
+      "items": ["4K TV", "Sound Bar", "HDMI Cables"]
+    },
+    {
+      "id": 4,
+      "customerName": "David Rodriguez",
+      "phoneNumber": "1800 321 6547",
+      "amount": 899.99,
+      "date": "2024-03-12",
+      "status": "Processing",
+      "items": ["Gaming Console", "Extra Controller"]
+    }
+  ]
+} 
